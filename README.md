@@ -100,6 +100,18 @@ apple                                                                        pie
 apple  pie
 ```
 
+### clivia.prompt
+#### Coming soon
+
+### clivia.terminal
+#### Coming soon
+
+### clivia.data
+#### Coming soon
+
+### clivia.arguments
+#### Coming soon
+
 ## Unlicense
 
 ```
